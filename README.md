@@ -1,5 +1,7 @@
 # Tableau Exercise Assignment 
-Awesome Chocolate Dashboard Report
+Source Website - https://sg-hangaan.github.io/Awesome-Chocolate-Dashboard-Report.github.io/
+<br> <br> <br>
+**Awesome Chocolate Dashboard Report**
 
 - Download and install  Tableau Public Desktop.
 - Download Awesome Chocolates dataset.
@@ -11,7 +13,7 @@ Awesome Chocolate Dashboard Report
 - Sort the Amount in descending order (use the icon).
 - Rename the tab sheet to Sales by Product
 
-Sales by SalesPerson
+**Sales by SalesPerson**
 - Proceed to another tab worksheet.
 - Drag SalesPerson and Amount to the canvas.
 - Click Show Me | Horizontal Bar
@@ -20,7 +22,7 @@ Sales by SalesPerson
 - Rename the sheet by Sales by SalesPerson
 
 
-Sales by Geography
+**Sales by Geography**
 - Proceed to another tab worksheet
 - Drag or right click Add to Sheet Geography and Amount
 - Click Show Me | Pie charts
@@ -28,7 +30,7 @@ Sales by Geography
 - Select all (ctrl A) and Mark Label | Always Show.
 - Rename the tab worksheet to Sales by Geography.
 
-Dashboarding
+**Dashboarding**
 - Create/Click New Dashboard tab.
  - Set Size to Automatic
  - Drag the 3 sheets into the canvas.
